@@ -1,5 +1,5 @@
 # Computer Vision in Remote Sensing
-##Land-use and land-cover change detection
+## Land-use and land-cover change detection
 
 Computer vision and remote sensing technologies are significant in detecting land-use and land-cover changes around the world due to their ability to process large amounts of data from various sources, including satellite imagery, aerial photographs, and LiDAR data.
 
