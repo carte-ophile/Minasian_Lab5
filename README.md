@@ -9,7 +9,7 @@ Computer vision and remote sensing technologies are significant in detecting lan
 
 Remote sensing technologies can provide accurate and reliable information on land-use and land-cover changes, which can be used for various applications, such as urban planning, natural resource management, and biodiversity conservation.
 
-| ![Land-cover change between 2001-2100 under a Business as Usual Scenario in the California Bay Area](https://www.mdpi.com/sustainability/sustainability-12-03925/article_deploy/html/images/sustainability-12-03925-g002.png "Land use and land cover change (LULC) change map of the Kathmandu district in 1990 (a) and 2010 (b")) |
+| ![Land use and land cover change (LULC) change map of the Kathmandu district in 1990 (a) and 2010 (b)](https://www.mdpi.com/sustainability/sustainability-12-03925/article_deploy/html/images/sustainability-12-03925-g002.png "Land use and land cover change (LULC) change map of the Kathmandu district in 1990 and 2010) |
 |:--:|
 | *Land use and land cover change (LULC) change map of the Kathmandu district in 1990 (a) and 2010 (b)* |
 
